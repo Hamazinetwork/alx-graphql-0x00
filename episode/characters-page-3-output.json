@@ -1,0 +1,14 @@
+{
+    "data":{
+        "episode":{
+            "result":[
+                {
+                    "id":3,
+                    "name": "The Climax",
+                    "air_date": "2023-01-15",
+                    "episode": "S01E03"
+                }
+            ]
+        }
+    }
+}

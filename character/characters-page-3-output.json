@@ -1,0 +1,20 @@
+{
+    "data":{
+        "character":{
+            "result":[
+                {
+                    "id":5,
+                    "name": "Emeka Ike",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/green-nature-videos-7vzw8ax/"
+                },
+                {
+                    "id":6,
+                    "name": "Adebisi Adewale",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/green-nature-videos-7vzw8ax/"
+                }
+            ]
+        }
+    }
+}

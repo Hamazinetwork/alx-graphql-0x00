@@ -1,0 +1,16 @@
+{
+    "data":{
+        "character":{
+            "result":[
+                {
+                    "id":1,
+                    "name": "Rahman Ademola",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/green-nature-videos-7vzw8ax/"
+                }
+            ]
+
+            
+        }
+    }
+}

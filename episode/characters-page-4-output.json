@@ -1,0 +1,14 @@
+{
+    "data":{
+        "episode":{
+            "result":[
+                {
+                    "id":4,
+                    "name": "The Final Showdown",
+                    "air_date": "2023-01-22",
+                    "episode": "S01E04"
+                }
+            ]
+        }
+    }
+}

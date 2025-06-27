@@ -1,0 +1,20 @@
+{
+    "data":{
+        "character":{
+            "result":[
+                {
+                    "id":2,
+                    "name": "Chinonso Chukwu",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/green-nature-videos-7vzw8ax/"
+                },
+                {
+                    "id":3,
+                    "name": "Bright Igwe",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/green-nature-videos-7vzw8ax/"
+                }
+            ]
+        }
+    }
+}

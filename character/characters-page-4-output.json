@@ -1,0 +1,20 @@
+{
+    "data":{
+        "character":{
+            "result":[
+                {
+                    "id":5,
+                    "name": "rahma Ayoola",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/blue-sky-videos-8vzw8ax/"
+                },
+                {
+                    "id":6,
+                    "name": "malik wale",
+                    "status": "active",
+                    "image": "https://www.pexels.com/collections/sunset-videos-9vzw8ax/"
+                }
+            ]
+        }
+    }
+}
