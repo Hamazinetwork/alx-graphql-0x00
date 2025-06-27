@@ -1,0 +1,10 @@
+{"data": {
+    "character":{
+        "id":2,
+        "name": "John Doe",
+        "status": "active",
+        "type":"bolean",
+        "gender":"Male"
+    }
+}
+}
