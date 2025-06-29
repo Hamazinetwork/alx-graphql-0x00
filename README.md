@@ -1,1 +1,2 @@
 ## GraphQuest: Exploring and Implementing GraphQL
+GraphQL is a query language for APIs that allows clients to request exactly the data they need, making it a powerful alternative to RESTful APIs. GraphQL can be used to streamline data fetching and improve performance by reducing over-fetching and under-fetching of data. We will introduce you to GraphQL and guide you through the implementation of GraphQL in a TypeScript project.
